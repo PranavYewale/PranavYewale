@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PranavYewale
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Core Python
 - 💞️ I’m looking to collaborate on ...
 
 <!---

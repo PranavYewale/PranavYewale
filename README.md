@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @PranavYewale
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Core Python
-- 💞️ I’m looking to collaborate on ...
+### Hello, I'm Pranav Yewale 👋
 
-<!---
-PranavYewale/PranavYewale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+- 🔍 Exploring the depths of Artificial Intelligence.
+- 🌱 Currently immersed in the study of AI.
+- 💼 Open to collaborations on innovative AI projects.
+- 📈 Constantly seeking opportunities for growth and learning.
